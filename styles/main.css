@@ -10,8 +10,11 @@
   }
   .tt {
       color: #ffffff;
-      font-size: 25pt;
-      margin-bottom: 30px;
+      font-size: 20pt;
+      padding-bottom: 10px;
+      top: -8px;
+      position: relative;
+
   }
   .calendar {
       height: 150px;
