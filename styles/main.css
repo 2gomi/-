@@ -1,0 +1,80 @@
+.menu {
+    padding: 10px;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(194, 116, 152);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px white;
+    border-radius: 5px;
+  }
+  .tt {
+      color: #ffffff;
+      font-size: 25pt;
+      margin-bottom: 30px;
+  }
+  .calendar {
+      height: 150px;
+      margin-bottom: 15px;
+  }
+  .date {
+      background-color: rgb(224,224,224);
+      width: 365px;
+      border: 1pt white;
+      border-radius: 3px;
+  }
+  .day {
+      padding-left: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-size: 15pt;
+      font-weight: bold;
+  }
+  .date_info div {
+       width: 175px;
+       height: 150px;
+       float: left;
+       background-color: rgb(224,224,224);
+       margin-right: 2px;
+       margin-top: 2px;
+       border: 1pt white;
+       border-radius: 3px;
+       padding-top: 3px;
+       padding-left: 5px;
+  }
+
+.search_icon {
+    width: 20px;
+    height: 20px;
+}
+.s_t {
+    width: 120px;
+    height: 25px;
+    float: left;
+}
+.s_b div {
+    float: left;  
+    width: 175px;
+    border: 1pt white;
+    border-radius: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-top: 15px;
+}
+ul {list-style: none;}
+.s_b_1 {background-color: rgb(241, 171, 195);}
+.s_b_2 {background-color: rgb(223, 202, 210);}
+
+.mg_l { margin-left: 5px;}
+.w_b {
+    width: 370px;
+    height: 200px;
+    margin-top: 15px;
+}
+.btt {
+    padding-left: 205px;
+}
+.ymdt {
+    font-weight: bold;
+    padding-left: 10px
+}
