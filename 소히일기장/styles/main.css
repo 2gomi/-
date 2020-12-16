@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+body {font-family: 'Jua', sans-serif;}
+
+
+
+
 .menu {
     padding: 10px;
     width: 350px;
@@ -9,6 +15,7 @@
     border-radius: 5px;
   }
   .tt {
+      text-decoration: none ;
       color: #ffffff;
       font-size: 20pt;
       padding-bottom: 10px;
@@ -21,7 +28,7 @@
       margin-bottom: 15px;
   }
   .date {
-      background-color: rgb(224,224,224);
+      background-color: rgb(228, 180, 209);
       width: 365px;
       border: 1pt white;
       border-radius: 3px;
@@ -30,11 +37,12 @@
       padding-left: 20px;
       padding-top: 5px;
       padding-bottom: 5px;
+      color:rgb(95, 90, 93);
       font-size: 15pt;
       font-weight: bold;
   }
   .date_info div {
-       width: 175px;
+       width: 175.5px;
        height: 150px;
        float: left;
        background-color: rgb(224,224,224);
@@ -73,11 +81,44 @@ ul {list-style: none;}
     width: 370px;
     height: 200px;
     margin-top: 15px;
+    background-color: rgb(223, 202, 210);
+    border: 1px white;
+    boder-radius: 3px;
 }
 .btt {
+    border-radius: 3px;
     padding-left: 205px;
-}
+    padding-top: 5px;
+    height: 30px;
+    width: 165px;
+    background-color: rgb(250, 209, 223);
+    }
 .ymdt {
     font-weight: bold;
-    padding-left: 10px
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.x {
+    width: 30px;
+    background-color: rgb(224,224,224);
+    border: 1px white;
+    border-radius: 2px;
+}
+.t {
+    width: 30px;
+    background-color: rgb(224,224,224);
+    border: 1px white;
+    border-radius: 2px;
+}
+.p {
+    width: 30px;
+    background-color: rgb(224,224,224);
+    border: 1px white;
+    border-radius: 2px;
+}
+.pc {
+    width: 30px;
+    background-color: rgb(224,224,224);
+    border: 1px white;
+    border-radius: 2px;
 }
